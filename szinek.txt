@@ -1,3 +1,5 @@
 piros
 zold
 lila
+fekete
+narancs
